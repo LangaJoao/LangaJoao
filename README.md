@@ -27,7 +27,7 @@ public class SobreMim {
 
 💼 LinkedIn: João Langa
 
-✉️ Email: langajoao16@gmail.com
+✉️ Email: langajoao16@gmail.com / joaolanga@uem.ac.mz
 
 📸 Instagram: @joao_langa
 
