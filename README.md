@@ -1,5 +1,13 @@
-# 👨‍💻 João Langa 
-**Desenvolvedor Full Stack**
+<h1 align="center">👨‍💻 João Langa</h1>
+<h3 align="center">Desenvolvedor Full Stack</h3>
+
+<p align="center">
+    Transformando ideias em código • Sempre aprendendo • Sempre evoluindo
+</p>
+
+---
+
+## 🧠 Sobre Mim
 
 ```java
 public class SobreMim {
@@ -7,40 +15,29 @@ public class SobreMim {
         String paixao = "Transformar ideias em código";
         String foco = "Desenvolvimento Full Stack";
         String mentalidade = "Sempre aprendendo, sempre evoluindo";
-        
+
         System.out.println(paixao);
-        System.out.println("🚀 " + foco);
-        System.out.println("🌟 " + mentalidade);
+        System.out.println("⚡ " + foco);
+        System.out.println("🚀 " + mentalidade);
     }
 }
-🛠️ Tech Stack
-Frontend
 
-text
-React • JavaScript • TypeScript
-Tailwind CSS • HTML • CSS
-Backend
+## 🛠️ Tech Stack
 
-text
-Java • Laravel• Node.js
-MySQL 
-Ferramentas
+### 🖥️ Frontend
+- React  
+- JavaScript • TypeScript  
+- Tailwind CSS  
+- HTML • CSS  
 
-text
-Git • VS Code • IntelliJ • Postman
-📈 Meu GitHub
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=joaolanga&show_icons=true&theme=radical&hide_border=true
+### ⚙️ Backend
+- Java  
+- Laravel  
+- Node.js  
+- MySQL  
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=joaolanga&layout=compact&theme=radical&hide_border=true
+### 🧰 Ferramentas
+- Git  
+- VS Code  
+- IntelliJ  
 
-</div>
-📫 Vamos conversar?
-💼 LinkedIn: João Langa
-📧 Email: langajoao16@gmail.com
-📱 Instagram: @jjoao_langa
-
-<div align="center">
-"O código é onde a lógica encontra a criatividade"
-
-</div> ```
