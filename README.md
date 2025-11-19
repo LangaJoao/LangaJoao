@@ -22,22 +22,12 @@ public class SobreMim {
     }
 }
 
-## 🛠️ Tech Stack
 
-### 🖥️ Frontend
-- React  
-- JavaScript • TypeScript  
-- Tailwind CSS  
-- HTML • CSS  
+📬 Vamos conversar?
 
-### ⚙️ Backend
-- Java  
-- Laravel  
-- Node.js  
-- MySQL  
+💼 LinkedIn: João Langa
 
-### 🧰 Ferramentas
-- Git  
-- VS Code  
-- IntelliJ  
+✉️ Email: langajoao16@gmail.com
+
+📸 Instagram: @joao_langa
 
