@@ -1,19 +1,15 @@
 ```html
 <h1 align="center">João Langa</h1>
-<h3 align="center">Full Stack Developer | Software Engineering | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Software Engineering | AI</h3>
 
 <p align="center">
-  Desenvolvendo soluções digitais que transformam ideias em produtos de impacto.
+  Desenvolvendo soluções tecnológicas para problemas reais.
 </p>
 
 <p align="center">
-  <a href="https://joaolanga-portfolio.joaolanga.workers.dev/">
-    🌐 Portfólio
-  </a>
+  <a href="https://joaolanga-portfolio.joaolanga.workers.dev/">Portfólio</a>
   •
-  <a href="mailto:langajoao16@gmail.com">
-    ✉️ Email
-  </a>
+  <a href="mailto:langajoao16@gmail.com">Email</a>
 </p>
 ```
 
@@ -21,36 +17,35 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou desenvolvedor Full Stack e finalista de Ciências de Computação na Universidade Eduardo Mondlane (UEM), com experiência em desenvolvimento de aplicações web, engenharia de software e integração de Inteligência Artificial.
+Sou **Desenvolvedor Full Stack**, com experiência em desenvolvimento de aplicações web, engenharia de software e integração de Inteligência Artificial.
 
-Sou co-fundador da **Seven Networks**, onde participo na concepção e desenvolvimento de produtos digitais. Tenho também experiência em desenvolvimento de soluções com IA na **Parceria360**, trabalhando com tecnologias como Laravel, Vue.js e APIs de modelos de linguagem.
+Actuo na concepção, desenvolvimento e implementação de soluções digitais, desde a arquitectura até à disponibilização em produção.
 
-Interesso-me especialmente por **Arquitectura de Software, Inteligência Artificial, Engenharia de Dados e Desenvolvimento de Produtos Tecnológicos**.
+Tenho especial interesse em **Software Engineering, Software Architecture, Artificial Intelligence e Data Engineering**.
 
-## 🧠 Um pouco sobre mim em Java
+## 🧠 Sobre mim em Java
 
 ```java
 public class JoaoLanga {
 
-    String formacao = "Computer Science";
     String especialidade = "Full Stack Development";
 
-    String[] interesses = {
+    String[] competencias = {
         "Software Engineering",
-        "Artificial Intelligence",
-        "Software Architecture",
-        "Data Engineering"
+        "Web Development",
+        "AI Integration",
+        "Software Architecture"
     };
 
-    String missao = "Transformar problemas reais em soluções digitais";
+    String objectivo = "Desenvolver soluções tecnológicas de impacto";
 
     public void desenvolver() {
-        System.out.println(missao);
+        System.out.println(objectivo);
     }
 }
 ```
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
 **Frontend:** JavaScript • React • Vue.js • PrimeVue
 
@@ -58,25 +53,25 @@ public class JoaoLanga {
 
 **Bases de Dados:** MySQL • PostgreSQL
 
-**Ferramentas:** Git • GitHub • Linux • Nginx • VS Code
+**Ferramentas:** Git • GitHub • Linux • Nginx
 
-**Áreas de Interesse:** Inteligência Artificial • LLMs • RAG • Software Architecture • QA
+**Outras competências:** Integração de IA • LLMs • RAG • QA
 
-## 🚀 Projectos e Experiência
+## 🚀 Experiência e Projectos
 
-- **Seven Networks:** Co-fundador, com actuação em desenvolvimento de produtos digitais, arquitectura de software e tecnologia.
-- **Parceria360:** Desenvolvimento Full Stack e integração de Inteligência Artificial em soluções de gestão.
-- **XiTikando:** Plataforma digital de gestão de xitique.
-- **Kawash:** Solução digital para conectar clientes e prestadores de serviços de lavagem automóvel.
+- **Seven Networks** — Co-fundador | Produto e Tecnologia
+- **Parceria360** — Desenvolvimento Full Stack e Integração de IA
+- **XiTikando** — Plataforma digital de gestão de xitique
+- **Kawash** — Plataforma digital de serviços de lavagem automóvel
 
-## 📬 Vamos conversar?
+## 📬 Contactos
 
-Estou aberto a oportunidades de colaboração, desenvolvimento de software e projectos de inovação tecnológica.
+Aberto a oportunidades profissionais, colaborações e projectos tecnológicos.
 
-💼 **LinkedIn:** João Langa
+**Portfólio:** [joaolanga-portfolio.joaolanga.workers.dev](https://joaolanga-portfolio.joaolanga.workers.dev/)
 
-🌐 **Portfólio:** [joaolanga-portfolio.joaolanga.workers.dev](https://joaolanga-portfolio.joaolanga.workers.dev/)
+**LinkedIn:** João Langa
 
-✉️ **Email:** langajoao16@gmail.com | joaolanga@uem.ac.mz
+**Email:** langajoao16@gmail.com | joaolanga@uem.ac.mz
 
-📸 **Instagram:** @joao_langa
+**Instagram:** @joao_langa
